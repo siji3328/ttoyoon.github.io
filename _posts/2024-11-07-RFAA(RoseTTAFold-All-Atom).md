@@ -2,7 +2,7 @@
 layout: post
 title: "RFAA (RoseTTAFold-All-Atom)"
 date: 2024-11-07
-categories: Model
+categories: [Bioinformatics, Model]
 tags: [RFAA, RoseTTAFold, Bioinformatics, Protein Structure]
 ---
 
