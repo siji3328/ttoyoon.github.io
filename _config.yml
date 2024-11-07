@@ -121,7 +121,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+url: "https://siji3328.github.io"      # 사이트의 기본 URL
+baseurl: "/ttoyoon.github.io"          # 프로젝트 이름으로 설정된 하위 URL
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
