@@ -16,7 +16,11 @@ timezone: Asia/Seoul
 
 title: ttoyoon from MARS # the main title
 
+<<<<<<< HEAD
 tagline: life on mars # it will display as the subtitle
+=======
+tagline: ttoyoon from MARS # it will display as the subtitle
+>>>>>>> eefa0f44c048d65c8e6d4cf548a818fda7da52fc
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +38,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+<<<<<<< HEAD
   name: So-Yoon Park
+=======
+  name: ttoyoon
+>>>>>>> eefa0f44c048d65c8e6d4cf548a818fda7da52fc
   email: siji3328@hanmail.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
