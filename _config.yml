@@ -13,7 +13,7 @@ timezone: Asia/Seoul
 # ↓ --------------------------
 
 title: "ttoyoon" # the main title
-tagline: life on mars # it will display as the subtitle
+tagline: life on Mars # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
